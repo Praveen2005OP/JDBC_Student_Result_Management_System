@@ -1,4 +1,4 @@
-package com.tech.StudentManagementApp;
+package com.tech.Student_Result_Management_System;
 
 import java.sql.*;
 import java.util.Scanner;
@@ -7,7 +7,7 @@ public class StudentManagementApp {
 	// edit these
 	static final String JDBC_URL = "jdbc:mysql://localhost:3306/student_db";
 	static final String DB_USER = "root";
-	static final String DB_PASSWORD = "shaurya2508";
+	static final String DB_PASSWORD = "Pr@220405";
 
 	static Connection conn;
 	static Scanner sc = new Scanner(System.in);
